@@ -1,0 +1,26 @@
+Partlist
+
+Exported from NEW.brd at 14/3/2018 11:14 μμ
+
+EAGLE Version 8.5.0 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package    Library      Position (mm)         Orientation
+
+C1       10uF           C0805K     adafruit     (13.588 3.54)         R270		// http://gr.rsdelivers.com/product/kemet/c0805c106k9pactu/kemet-10%CE%BCf-multilayer-ceramic-capacitor-mlcc-63v/4516290
+C2       10uF           C0805K     adafruit     (5.715 2.874)         R90
+C3       10uF           C0805K     adafruit     (1.192 13.366)        R270
+D1       MBR120VLSFT1G  SOD-123    microbuilder (11.556 19.971)       R0 		// http://gr.rsdelivers.com/product/on-semiconductor/mbr120vlsft1g/on-semi-mbr120vlsft1g-smt-schottky-diode-20v-1a-2/7815626
+IC1      MCP73871       QFN20_4MM  adafruit     (6.907 14.986)        R0		// http://gr.rsdelivers.com/product/microchip/mcp73871-2cci-ml/microchip-mcp73871-2cci-ml-lithium-ion-lithium/6696199
+R2       270K           R0805      adafruit     (7.478 7.572)         R90
+R3       100K           R0805      adafruit     (11.177 8.334)        R180		// http://gr.rsdelivers.com/product/bourns/cr0805-fx-1003elf/bourns-cr0805-series-thick-film-fixed-resistor/7883997P
+R5       1K             M0805      adafruit     (3.652 11.43)         R270
+R11      2K             M0805      adafruit     (13.13 17.272)        R270
+R12      100K           R0805      adafruit     (13.384 12.652)       R90		// http://gr.rsdelivers.com/product/bourns/cr0805-fx-1003elf/bourns-cr0805-series-thick-film-fixed-resistor/7883997P
+RT2      150K           M0805      adafruit     (2.652 7.256)         R90
+THERM    10K            M0805      adafruit     (5.112 6.986)         R90
+
+
+3.3V Regulator
+4 N channel MOSFET
